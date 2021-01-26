@@ -25,4 +25,13 @@
  3、视频剪辑软件编码对单独显支持问题，很多软件并不能正确调用GPU硬解；<br>
  
  ## 注意：
- ##### 该主板有较多BIOS项需要调整设置，周末空闲再做个详细文件，预计11月29号完成。
+ ##### 该主板有较多BIOS项需要调整设置，周末空闲再做个详细设置说明。
+ ##### 1月15号已更新0.6.5版本和一些驱动，近期比较忙，等BigSur 11.2正式版出来调整好再一次更新。
+
+安装配置过程所使用资料均来自网络，包括但不限于以下：<br>
+[tonymacx86:Heporis](https://www.tonymacx86.com/threads/mojave-10-14-5-on-dell-optiplex-3050.279277/)<br>
+[精解OpenCore](https://blog.daliansky.net/OpenCore-BootLoader.html)<br>
+[使用OpenCore引导黑苹果-xin's blog](https://blog.xjn819.com/?p=543)<br>
+[OC-little](https://github.com/daliansky/OC-little)<br>
+[OpenCore Vanilla Guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)<br>
+[远景论坛](http://bbs.pcbeta.com/)<br>
