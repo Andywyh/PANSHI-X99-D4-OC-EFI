@@ -1,6 +1,8 @@
+ ###### 设备已出，退坑了
+ 
 # PANSHI-X99-D4-OC-EFI
 #### PANSHI X99D4(磐石至尊X99-D4）主板 OC EFI On BigSur（MacOS 11.0.1)<br>
- 
+
  #### 主机配置：
  主板： PANSHI X99D4(磐石至尊X99-D4）<br>
  CPU：  E5-2650v3 @2.3GHz<br>
